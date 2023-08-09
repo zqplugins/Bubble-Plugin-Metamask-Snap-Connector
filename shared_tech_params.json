@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAJ": {
+            "name": "icon",
+            "url": "//meta-l.cdn.bubble.io/f1685514167930x917416689023175700/Circle.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 3,
+        "use_jquery": true
+    }
+}

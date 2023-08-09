@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "demo_page": "https://testapplv.bubbleapps.io/version-test/snap",
+    "description": "This plugin allows installing Metamask Snaps (plugins) in users' wallets triggered from Bubble apps",
+    "image": "//meta-l.cdn.bubble.io/f1685469661157x307874697061998500/mceclip1.png",
+    "license": "open_source",
+    "link": "zeroqode.com/plugins",
+    "name": "Metamask Snap Connector",
+    "sa_node_version": 14
+}
